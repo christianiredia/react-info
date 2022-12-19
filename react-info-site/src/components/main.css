@@ -19,3 +19,8 @@ li {
   color: white;
   max-width: 400px;
 }
+
+li::marker {
+  color: #61dafb;
+  font-size: 1.5rem;
+}
